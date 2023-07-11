@@ -2,4 +2,4 @@
 - 👀 I’m interested in offensive tool building and offensive research work in the field of cybersecurity.
 - 🌱 I’m currently learning advanced exploitation techniques, vulnerability analysis, and reverse engineering.
 - 💞️ I’m looking to collaborate on projects related to offensive security, such as the development of new exploits, penetration testing frameworks, or vulnerability discovery tools.
-- 📫 You can reach me through email at vikas@thepwnexperts or connect with me on LinkedIn at [].
+- 📫 You can reach me through email at vikas@thepwnexperts or connect with me on LinkedIn at [linkedin](https://www.linkedin.com/in/-vikaskumawat-/).
